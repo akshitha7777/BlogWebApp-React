@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis porta quam. Aenean maximus massa ut ligula cursus, et vestibulum dolor dapibus. Vivamus sollicitudin egestas ultricies. .",
+      "userEmail": "akshi@gmail.com",
+      "userName": "Akshitha Anil",
+      "id": 1
+    },
+    {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis porta quam. Aenean maximus massa ut ligula cursus, et vestibulum dolor dapibus. Vivamus sollicitudin egestas ultricies. .",
+      "userEmail": "akshi@gmail.com",
+      "userName": "Akshitha Anil",
+      "id": 2
+    },
+    {
+      "title": "Loraa",
+      "description": "Donec eget rutrum ligula. Morbi et elit et ex sagittis pretium at mollis elit. Fusce fermentum diam eu ante tincidunt porta. Nullam tortor nibh, ",
+      "userEmail": "anisha@gmail.com",
+      "userName": "Anisha",
+      "id": 4
+    },
+    {
+      "title": "Loraa",
+      "description": "Donec eget rutrum ligula. Morbi et elit et ex sagittis pretium at mollis elit. Fusce fermentum diam eu ante tincidunt porta. Nullam tortor nibh, ",
+      "userEmail": "anisha@gmail.com",
+      "userName": "Anisha",
+      "id": 5
+    },
+    {
+      "title": "Ipsum",
+      "description": "Sed pellentesque interdum ipsum id bibendum. Nunc feugiat massa vitae tincidunt gravida. Nunc ac felis ut ante ultricies ultricies id nec diam. ",
+      "userEmail": "ani@gmail.com",
+      "userName": "Anil",
+      "id": 6
+    }
+  ]
+}
